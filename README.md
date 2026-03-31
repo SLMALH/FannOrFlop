@@ -17,7 +17,7 @@
   [Rao M. Anwer](https://scholar.google.com/citations?hl=en&user=_KlvMVoAAAAJ)
   <br>
   <br>  
-  [![arXiv](https://img.shields.io/badge/arXiv-2502.14865-F6D769)](https://arxiv.org/abs/xxxx.xxxx)
+  [![arXiv](https://img.shields.io/badge/arXiv-2505.18152-F6D769)](https://arxiv.org/abs/2505.18152)
   [![Our Page](https://img.shields.io/badge/Visit-Our%20Page-E7DAB7?style=flat)](https://mbzuai-oryx.github.io/FannOrFlop/)
   [![GitHub issues](https://img.shields.io/github/issues/mbzuai-oryx/Camel-Bench?color=E5D5C1&label=issues&style=flat)](https://github.com/mbzuai-oryx/FannOrFlop/issues)
   [![GitHub stars](https://img.shields.io/github/stars/mbzuai-oryx/TimeTravel?color=FAF1D9&style=flat)](https://github.com/mbzuai-oryx/FannOrFlop/stargazers)
